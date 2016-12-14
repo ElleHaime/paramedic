@@ -1,0 +1,227 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Ajax Search v1.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-07-22 15:46:20+0000\n"
+"Last-Translator: paramed <pangardin@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: class.yith-wcas-admin.php:124
+#@ yit
+msgid "Ajax Search"
+msgstr ""
+
+#: class.yith-wcas-admin.php:173
+#: class.yith-wcas-admin.php:213
+#@ yit
+msgid "General Settings"
+msgstr ""
+
+#: class.yith-wcas-admin.php:220
+#@ yit
+msgid "Search input label"
+msgstr ""
+
+#: class.yith-wcas-admin.php:221
+#@ yit
+msgid "Label for Search input field."
+msgstr ""
+
+#: class.yith-wcas-admin.php:223
+#: class.yith-wcas-admin.php:224
+#@ yit
+msgid "Search for products"
+msgstr ""
+
+#: class.yith-wcas-admin.php:230
+#@ yit
+msgid "Search submit label"
+msgstr ""
+
+#: class.yith-wcas-admin.php:231
+#@ yit
+msgid "Label for Search submit field."
+msgstr ""
+
+#: class.yith-wcas-admin.php:233
+#: class.yith-wcas-admin.php:234
+#@ yit
+msgid "Search"
+msgstr ""
+
+#: class.yith-wcas-admin.php:240
+#@ yit
+msgid "Minimum number of characters"
+msgstr ""
+
+#: class.yith-wcas-admin.php:241
+#@ yit
+msgid "Minimum number of characters required to trigger autosuggest."
+msgstr ""
+
+#: class.yith-wcas-admin.php:256
+#@ yit
+msgid "Maximum number of results"
+msgstr ""
+
+#: class.yith-wcas-admin.php:257
+#@ yit
+msgid "Maximum number of results showed within the autosuggest box."
+msgstr ""
+
+#: class.yith-wcas-admin.php:449
+#@ yit
+msgid "Settings"
+msgstr ""
+
+#: class.yith-wcas-admin.php:450
+#@ yit
+msgid "Docs"
+msgstr ""
+
+#: class.yith-wcas.php:139
+#@ yit
+msgid "No results"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: init.php:0
+#@ yit
+msgid "YITH WooCommerce Ajax Search"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: init.php:0
+#@ yit
+msgid "http://yithemes.com/"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: init.php:0
+#@ yit
+msgid "YITH WooCommerce Ajax Search allows your users to search products in real time."
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: init.php:0
+#@ yit
+msgid "Your Inspiration Themes"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: init.php:0
+#@ yit
+msgid "1.1.1"
+msgstr ""
+
+#: templates/yith-woocommerce-ajax-search.php:20
+#@ yit
+msgid "Search for:"
+msgstr ""
+
+#: widgets/class.yith-wcas-ajax-search.php:29
+#@ yit
+msgid "An Ajax Search box for products only."
+msgstr ""
+
+#: widgets/class.yith-wcas-ajax-search.php:31
+#@ yit
+msgid "YITH WooCommerce Ajax Product Search"
+msgstr ""
+
+#: widgets/class.yith-wcas-ajax-search.php:90
+#@ woocommerce
+msgid "Title:"
+msgstr ""
+
+#: yit-common/yith-panel.php:406
+#@ yit
+msgid "Select a date"
+msgstr ""
+
+#: yit-common/yith-panel.php:407
+#@ yit
+msgid "Hours"
+msgstr ""
+
+#: yit-common/yith-panel.php:408
+#: yit-common/yith-panel.php:409
+#@ yit
+msgid "Minutes"
+msgstr ""
+
+#: yit-common/yith-panel.php:417
+#@ yit
+msgid "Upload"
+msgstr ""
+
+#: yit-common/yith-panel.php:444
+#@ yit
+msgid "px"
+msgstr ""
+
+#: yit-common/yith-panel.php:445
+#@ yit
+msgid "em"
+msgstr ""
+
+#: yit-common/yith-panel.php:446
+#@ yit
+msgid "pt"
+msgstr ""
+
+#: yit-common/yith-panel.php:447
+#@ yit
+msgid "rem"
+msgstr ""
+
+#: yit-common/yith-panel.php:457
+#@ yit
+msgid "Select a font family"
+msgstr ""
+
+#: yit-common/yith-panel.php:465
+#@ yit
+msgid "Regular"
+msgstr ""
+
+#: yit-common/yith-panel.php:466
+#@ yit
+msgid "Bold"
+msgstr ""
+
+#: yit-common/yith-panel.php:467
+#@ yit
+msgid "Extra bold"
+msgstr ""
+
+#: yit-common/yith-panel.php:468
+#@ yit
+msgid "Italic"
+msgstr ""
+
+#: yit-common/yith-panel.php:469
+#@ yit
+msgid "Italic bold"
+msgstr ""
+
+#: yit-common/yith-panel.php:481
+#@ yit
+msgid "Click to preview"
+msgstr ""
+
